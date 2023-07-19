@@ -44,8 +44,7 @@ Datawhale面经项目-大数据模块
     <td><span style="font-weight:normal;font-style:normal;text-decoration:none">高宏伟</span></td>
     <td><span style="font-weight:normal;font-style:normal;text-decoration:none">MapReduce内容主要贡献者</span></td>
     <td>
-        <a href="https://www.zhihu.com/people/ming-ren-19-34">知乎</a>,
-        <a href="https://github.com/liu-yang-maker">Github</a>
+        <a href="https://blog.csdn.net/qq_36816848">CSDN</a>
     </td>
   </tr>
   <tr>
