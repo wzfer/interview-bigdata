@@ -63,7 +63,7 @@ Datawhale面经项目-大数据模块
 ## 关注我们
 <div align=center>
 <p>扫描下方二维码关注公众号：Datawhale</p>
-<img src="images/datawhale_qrcode.jpeg" width = "180" height = "180">
+<img src="image/datawhale_qrcode.jpg" width = "180" height = "180">
 </div>
 &emsp;&emsp;Datawhale是一个专注AI领域的开源组织，以“for the learner，和学习者一起成长”为愿景，构建对学习者最有价值的开源学习社区。关注我们，一起学习成长。
 
