@@ -29,15 +29,14 @@ Datawhale面经项目-大数据模块
     <td><span style="font-weight:normal;font-style:normal;text-decoration:none">杨克强</span></td>
     <td><span style="font-weight:normal;font-style:normal;text-decoration:none">Hadoop、HDFS内容主要贡献者</span></td>
     <td>
-        <a href="https://github.com/gezelligheid0314">Github</a>
+
     </td>
   </tr>  
   <tr>
     <td><span style="font-weight:normal;font-style:normal;text-decoration:none">王复振</span></td>
     <td><span style="font-weight:normal;font-style:normal;text-decoration:none">Datawhale成员，HBase内容主要贡献者</span></td>
     <td>
-        <a href="https://blog.csdn.net/qq_29027865">CSDN</a>,
-        <a href="https://github.com/ditingdapeng">Github</a>
+
     </td>
   </tr>
   <tr>
@@ -51,7 +50,7 @@ Datawhale面经项目-大数据模块
     <td><span style="font-weight:normal;font-style:normal;text-decoration:none">吴建新</span></td>
     <td><span style="font-weight:normal;font-style:normal;text-decoration:none">Hive、Spark主要贡献者</span></td>
     <td>
-        <a href="https://github.com/Relph1119">Github</a>
+
     </td>
   </tr>
 </tbody>
