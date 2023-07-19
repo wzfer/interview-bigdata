@@ -34,7 +34,7 @@ Datawhale面经项目-大数据模块
   </tr>  
   <tr>
     <td><span style="font-weight:normal;font-style:normal;text-decoration:none">王复振</span></td>
-    <td><span style="font-weight:normal;font-style:normal;text-decoration:none">HBase内容主要贡献者</span></td>
+    <td><span style="font-weight:normal;font-style:normal;text-decoration:none">Datawhale成员，HBase内容主要贡献者</span></td>
     <td>
         <a href="https://blog.csdn.net/qq_29027865">CSDN</a>,
         <a href="https://github.com/ditingdapeng">Github</a>
