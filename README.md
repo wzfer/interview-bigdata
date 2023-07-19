@@ -50,7 +50,7 @@ Datawhale面经项目-大数据模块
     <td><span style="font-weight:normal;font-style:normal;text-decoration:none">吴建新</span></td>
     <td><span style="font-weight:normal;font-style:normal;text-decoration:none">Hive、Spark主要贡献者</span></td>
     <td>
-        <a href="">Github</a>
+        <a href="https://github.com/xiaoxinWu">Github</a>
     </td>
   </tr>
 </tbody>
